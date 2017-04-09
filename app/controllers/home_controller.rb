@@ -3,4 +3,6 @@ class HomeController < ApplicationController
 
   end
 
+  def bio; end
+
 end
